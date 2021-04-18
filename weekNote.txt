@@ -1,0 +1,11 @@
+ur First Repository & objectives
+
+- Pros of using Git
+- What's a repository
+- Commit ?
+- Create a local repo
+- Create a remote 
+- Push to a remote 
+- Diff between (Working tree, staging area, local repo, remote repo)
+
+
