@@ -1,8 +1,10 @@
 ### Hi there 👋
-### Coursera CVS tutorial by Atlassion
+### Coursera CVS tutorial by Atlassian
 ### With S. Byrnes as Instructor
-### Happy coding!
 ### See you on FCC
+### Skill: JS, C++, React, Redux, Web, ML, Data
+### Happy coding!
+
 
 <!--
 **devdg-D/devdg-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
