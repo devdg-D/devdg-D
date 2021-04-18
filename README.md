@@ -1,4 +1,8 @@
 ### Hi there 👋
+Coursera CVS tutorial by Atlassion
+With S. Byrnes as Instructor
+Happy coding!
+See you on FCC
 
 <!--
 **devdg-D/devdg-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
